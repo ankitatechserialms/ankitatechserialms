@@ -8,7 +8,7 @@
     "email": "ankita.patel@techseria.com"
 }
 ],
-    "minimum-stability": "dev",
+    //"minimum-stability": "dev",
     "license": "MIT",
     "require": {
         "php": ">=5.3.2",
