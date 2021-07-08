@@ -1,7 +1,7 @@
 {
 "name": "giftapi/giftapi",
 "description": "This my giftapi composer package",
-"type": "library",
+"type": "package",
 "authors": [
 {
     "name": "techseria",
