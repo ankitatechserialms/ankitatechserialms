@@ -1,0 +1,26 @@
+{
+"name": "giftapi/giftapi",
+"description": "This my giftapi composer package",
+"type": "library",
+"authors": [
+{
+    "name": "techseria",
+    "email": "ankita.patel@techseria.com"
+}
+],
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2",
+        "rmccue/requests": "v1.6.1",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "raveren/kint": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Giftapi\\Api\\": "src/"
+        }
+    }
+}
